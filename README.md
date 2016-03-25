@@ -1,4 +1,3 @@
-# cs61
+# cs61 - Spring 2015
 Machine Organization and Assembly Language Programming
 
-Spring 2015
